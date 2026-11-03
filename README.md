@@ -11,13 +11,13 @@ The signature HTML references these files through [jsDelivr](https://www.jsdeliv
 Reference images with a pinned version tag:
 
 ```
-https://cdn.jsdelivr.net/gh/bcfmelman/bcfm-email-signature@v1/<file>.png
+https://cdn.jsdelivr.net/gh/bestcloudforme/bcfm-email-signature@v1/<file>.png
 ```
 
 Example:
 
 ```html
-<img src="https://cdn.jsdelivr.net/gh/bcfmelman/bcfm-email-signature@v1/logo_cloud.png" width="64" height="36" alt="">
+<img src="https://cdn.jsdelivr.net/gh/bestcloudforme/bcfm-email-signature@v1/logo_cloud.png" width="64" height="36" alt="">
 ```
 
 Always use a tag (`@v1`), never `@main`. Pinned URLs keep existing signatures stable even if the repo changes.
