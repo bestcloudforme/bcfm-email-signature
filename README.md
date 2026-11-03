@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./logo_cloud.png" alt="Bestcloudfor.me logo" width="96">
+<img src="https://cdn.jsdelivr.net/gh/bestcloudforme/bcfm-email-signature@v4/card.png" alt="Bestcloudfor.me logo" width="180">
 
 # BCFM Email Signature
 
